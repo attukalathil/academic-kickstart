@@ -21,7 +21,7 @@
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
-## Install
+## Install aaa
 
 You can choose from one of the following four methods to install:
 
